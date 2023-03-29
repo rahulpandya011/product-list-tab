@@ -1,0 +1,75 @@
+.cart-div {
+  cursor: pointer;
+  position: relative;
+}
+.cart-div .count {
+  position: absolute;
+  bottom: 15px;
+  left: 10px;
+  background: red;
+  color: white;
+  border-radius: 50%;
+  padding: 0px 3px 0px 3px;
+  font-size: 11px;
+}
+.card img {
+  height: 200px;
+  object-fit: scale-down;
+}
+.view-type-icons span {
+  font-size: 25px;
+}
+.view-type-icons span.active {
+  color: #2c7d9dbf;
+  padding: 5px;
+}
+
+.product-tabel img {
+  height: 100px;
+}
+
+.product-tabel tbody tr {
+  vertical-align: middle;
+}
+
+.action-button {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.action-button .add-button {
+  background-color: #0d6efd;
+  color: white;
+  border-radius: 50%;
+  padding: 0px 8px 0px 8px;
+  border: 0px;
+}
+.action-button p {
+  margin: 15px;
+}
+
+.action-button .minus-button {
+  background-color: #dc3545;
+  color: white;
+  border-radius: 50%;
+  padding: 0px 10px 0px 10px;
+  border: 0px;
+}
+
+.compare-data{
+  border: 1px solid;
+  padding: 5px;
+  vertical-align: middle;
+}
+
+.hurry-up{
+  background-color: red;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.compare-data b{
+  margin-right: 5px;
+}

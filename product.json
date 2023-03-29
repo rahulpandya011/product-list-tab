@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 100,
+      "maximum_cart": 5,
+      "rating": 4.69,
+      "stock": 2,
+      "product_image": "https://shop.unicornstore.in/uploads/images/medium/b70f1aaa31ca4c3624c7190cbe777964.jpg",
+      "product_attributes": {
+        "brand": "Apple",
+        "category": "Smartphones",
+        "ram": "4GB",
+        "rom": "128GB",
+        "display": "15.49 cm (6.1 inch) Super Retina XDR Display",
+        "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "returns": " 7 day seller replacement policy/brand assistance for device issues*"
+      }
+    },
+    {
+      "id": 2,
+      "title": "iPhone 10",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 110,
+      "maximum_cart": 2,
+      "product_image": "https://shop.unicornstore.in/uploads/images/medium/9cb99aa118ea661a6ce0d1f68ec8894c.jpg",
+      "rating": 4.5,
+      "stock": 600,
+      "product_attributes": {
+        "brand": "Apple",
+        "category": "Smartphones",
+        "ram": "6GB",
+        "rom": "256GB",
+        "display": "16 cm (6.4 inch) Super Retina XDR Display",
+        "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "returns": " 7 day seller replacement policy/brand assistance for device issues*"
+      }
+    },
+    {
+      "id": 3,
+      "title": "iPhone 7",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 80,
+      "maximum_cart": 3,
+      "rating": 4,
+      "stock": 700,
+      "product_image": "https://shop.unicornstore.in/uploads/images/medium/4933aa6ab887145172c01bb1c2d9eafe.jpg",
+      "product_attributes": {
+        "brand": "Apple",
+        "category": "Smartphones",
+        "ram": "4GB",
+        "rom": "64GB",
+        "display": "13 cm (5.8 inch) Super Retina XDR Display",
+        "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "returns": " 7 day seller replacement policy/brand assistance for device issues*"
+      }
+    },
+    {
+      "id": 4,
+      "title": "iPhone 6",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 40,
+      "maximum_cart": 10,
+      "rating": 4.5,
+      "stock": 200,
+      "product_image": "https://shop.unicornstore.in/uploads/images/medium/4933aa6ab887145172c01bb1c2d9eafe.jpg",
+      "product_attributes": {
+        "brand": "Apple",
+        "category": "Smartphones",
+        "ram": "3GB",
+        "rom": "32GB",
+        "display": "10 cm (4 inch)",
+        "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "returns": " 7 day seller replacement policy/brand assistance for device issues*"
+      }
+    },
+    {
+      "id": 5,
+      "title": "iPhone 12",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 80,
+      "maximum_cart": 5,
+      "rating": 5,
+      "stock": 1000,
+      "product_image": "https://shop.unicornstore.in/uploads/images/medium/4933aa6ab887145172c01bb1c2d9eafe.jpg",
+      "product_attributes": {
+        "brand": "Apple",
+        "category": "Smartphones",
+        "ram": "8GB",
+        "rom": "256GB",
+        "display": "18 cm (7 inch)",
+        "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "returns": " 7 day seller replacement policy/brand assistance for device issues*"
+      }
+    },
+    {
+      "id": 6,
+      "title": "iPhone 14",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 120,
+      "maximum_cart": 4,
+      "rating": 4.9,
+      "stock": 56,
+      "product_image": "https://shop.unicornstore.in/uploads/images/medium/4933aa6ab887145172c01bb1c2d9eafe.jpg",
+      "product_attributes": {
+        "brand": "Apple",
+        "category": "Smartphones",
+        "ram": "12GB",
+        "rom": "512GB",
+        "display": "19 cm (7.5 inch)",
+        "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+        "returns": " 7 day seller replacement policy/brand assistance for device issues*"
+      }
+    }
+  ]
+}
